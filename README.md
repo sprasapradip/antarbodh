@@ -5,7 +5,7 @@ Welcome to the Antarbodh Yoga Website Project. This project focuses on creating 
 ## Project Overview
 
 **Client**: Hari Narayan Sharma 
-**Website URL**: [Insert URL]  
+**Website URL**: [Antarbodh](harinarayansharma.com.np)
 **Completion Date**: October 2024
 
 This project involved developing a fully functional yoga website with modern design principles, including features for showcasing yoga classes, blogs, testimonials, and a user-friendly booking system.
